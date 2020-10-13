@@ -1,1 +1,3 @@
-# neuralnet_fuzzylogic
+# Refactor of original my Neural network code from C++ to modern java code base
+
+TODO
